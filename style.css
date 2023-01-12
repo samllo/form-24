@@ -26,6 +26,10 @@ body{
   
 }
 
+a {
+  all: unset;
+}
+
 #logo{
   background-color: #1D3557;
   width: 100vw;
